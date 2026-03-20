@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="http://gh.qninq.cn/https://raw.githubusercontent.com/FnICeN/iptv-api/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-03-20 16:16:00
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="📺央视频道",CCTV-16
+http://74.91.26.218:82/live/cctv16hd.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="陕西卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/陕西卫视.png" group-title="📡卫视频道",陕西卫视
+http://107.150.60.122/live/snwshd.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
